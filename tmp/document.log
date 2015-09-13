@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.28)  17 SEP 2015 07:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.28)  14 SEP 2015 01:15
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -783,23 +783,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: plots/bayes/ls/same_cov.png Graphic file (type png)
 
 <use plots/bayes/ls/same_cov.png>
-Package pdftex.def Info: plots/bayes/ls/same_cov.png used on input line 71.
+Package pdftex.def Info: plots/bayes/ls/same_cov.png used on input line 75.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+ [1
 
-<plots/bayes/ls/avg_cov.png, id=5, 1088.868pt x 551.661pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <plots/bayes/ls/avg_cov.pn
+g, id=14, 1088.868pt x 551.661pt>
 File: plots/bayes/ls/avg_cov.png Graphic file (type png)
 
 <use plots/bayes/ls/avg_cov.png>
-Package pdftex.def Info: plots/bayes/ls/avg_cov.png used on input line 72.
+Package pdftex.def Info: plots/bayes/ls/avg_cov.png used on input line 76.
 (pdftex.def)             Requested size: 455.2446pt x 256.07358pt.
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <plots/bayes/ls/diff_cov.p
-ng, id=15, 1096.898pt x 553.267pt>
+<plots/bayes/ls/diff_cov.png, id=15, 1096.898pt x 553.267pt>
 File: plots/bayes/ls/diff_cov.png Graphic file (type png)
 
 <use plots/bayes/ls/diff_cov.png>
-Package pdftex.def Info: plots/bayes/ls/diff_cov.png used on input line 73.
+Package pdftex.def Info: plots/bayes/ls/diff_cov.png used on input line 77.
 (pdftex.def)             Requested size: 455.23766pt x 256.07614pt.
  [2 <./plots/bayes/ls/same_cov.png (PNG copy)> <./plots/bayes/ls/avg_cov.png (P
 NG copy)>]
@@ -808,7 +808,7 @@ File: plots/bayes/nls/interlock/same_cov.png Graphic file (type png)
 
 <use plots/bayes/nls/interlock/same_cov.png>
 Package pdftex.def Info: plots/bayes/nls/interlock/same_cov.png used on input l
-ine 92.
+ine 98.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
 
 <plots/bayes/nls/interlock/avg_cov.png, id=21, 411.136pt x 308.352pt>
@@ -816,7 +816,7 @@ File: plots/bayes/nls/interlock/avg_cov.png Graphic file (type png)
 
 <use plots/bayes/nls/interlock/avg_cov.png>
 Package pdftex.def Info: plots/bayes/nls/interlock/avg_cov.png used on input li
-ne 93.
+ne 99.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
 
 <plots/bayes/nls/interlock/diff_cov.png, id=22, 411.136pt x 308.352pt>
@@ -824,7 +824,7 @@ File: plots/bayes/nls/interlock/diff_cov.png Graphic file (type png)
 
 <use plots/bayes/nls/interlock/diff_cov.png>
 Package pdftex.def Info: plots/bayes/nls/interlock/diff_cov.png used on input l
-ine 94.
+ine 100.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
  [3 <./plots/bayes/ls/diff_cov.png (PNG copy)> <./plots/bayes/nls/interlock/sam
 e_cov.png (PNG copy)>]
@@ -832,16 +832,16 @@ e_cov.png (PNG copy)>]
 File: plots/bayes/nls/ring/same_cov.png Graphic file (type png)
 
 <use plots/bayes/nls/ring/same_cov.png>
-Package pdftex.def Info: plots/bayes/nls/ring/same_cov.png used on input line 9
-6.
+Package pdftex.def Info: plots/bayes/nls/ring/same_cov.png used on input line 1
+04.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
 
 <plots/bayes/nls/ring/avg_cov.png, id=27, 411.136pt x 308.352pt>
 File: plots/bayes/nls/ring/avg_cov.png Graphic file (type png)
 
 <use plots/bayes/nls/ring/avg_cov.png>
-Package pdftex.def Info: plots/bayes/nls/ring/avg_cov.png used on input line 97
-.
+Package pdftex.def Info: plots/bayes/nls/ring/avg_cov.png used on input line 10
+5.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
  [4 <./plots/bayes/nls/interlock/avg_cov.png (PNG copy)> <./plots/bayes/nls/int
 erlock/diff_cov.png (PNG copy)>]
@@ -849,8 +849,8 @@ erlock/diff_cov.png (PNG copy)>]
 File: plots/bayes/nls/ring/diff_cov.png Graphic file (type png)
 
 <use plots/bayes/nls/ring/diff_cov.png>
-Package pdftex.def Info: plots/bayes/nls/ring/diff_cov.png used on input line 9
-8.
+Package pdftex.def Info: plots/bayes/nls/ring/diff_cov.png used on input line 1
+06.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
  [5 <./plots/bayes/nls/ring/same_cov.png (PNG copy)> <./plots/bayes/nls/ring/av
 g_cov.png (PNG copy)>]
@@ -859,7 +859,7 @@ File: plots/bayes/nls/spiral/same_cov.png Graphic file (type png)
 
 <use plots/bayes/nls/spiral/same_cov.png>
 Package pdftex.def Info: plots/bayes/nls/spiral/same_cov.png used on input line
- 100.
+ 109.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
 
 <plots/bayes/nls/spiral/avg_cov.png, id=36, 411.136pt x 308.352pt>
@@ -867,7 +867,7 @@ File: plots/bayes/nls/spiral/avg_cov.png Graphic file (type png)
 
 <use plots/bayes/nls/spiral/avg_cov.png>
 Package pdftex.def Info: plots/bayes/nls/spiral/avg_cov.png used on input line 
-101.
+110.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
 
 <plots/bayes/nls/spiral/diff_cov.png, id=37, 1096.898pt x 553.267pt>
@@ -875,7 +875,7 @@ File: plots/bayes/nls/spiral/diff_cov.png Graphic file (type png)
 
 <use plots/bayes/nls/spiral/diff_cov.png>
 Package pdftex.def Info: plots/bayes/nls/spiral/diff_cov.png used on input line
- 102.
+ 111.
 (pdftex.def)             Requested size: 455.23766pt x 256.07614pt.
  [6 <./plots/bayes/nls/ring/diff_cov.png (PNG copy)> <./plots/bayes/nls/spiral/
 same_cov.png (PNG copy)>]
@@ -883,14 +883,14 @@ same_cov.png (PNG copy)>]
 File: plots/bayes/over/same_cov.png Graphic file (type png)
 
 <use plots/bayes/over/same_cov.png>
-Package pdftex.def Info: plots/bayes/over/same_cov.png used on input line 104.
+Package pdftex.def Info: plots/bayes/over/same_cov.png used on input line 113.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
 
 <plots/bayes/over/avg_cov.png, id=42, 411.136pt x 308.352pt>
 File: plots/bayes/over/avg_cov.png Graphic file (type png)
 
 <use plots/bayes/over/avg_cov.png>
-Package pdftex.def Info: plots/bayes/over/avg_cov.png used on input line 105.
+Package pdftex.def Info: plots/bayes/over/avg_cov.png used on input line 114.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
  [7 <./plots/bayes/nls/spiral/avg_cov.png (PNG copy)> <./plots/bayes/nls/spiral
 /diff_cov.png (PNG copy)>]
@@ -898,7 +898,7 @@ Package pdftex.def Info: plots/bayes/over/avg_cov.png used on input line 105.
 File: plots/bayes/over/diff_cov.png Graphic file (type png)
 
 <use plots/bayes/over/diff_cov.png>
-Package pdftex.def Info: plots/bayes/over/diff_cov.png used on input line 106.
+Package pdftex.def Info: plots/bayes/over/diff_cov.png used on input line 115.
 (pdftex.def)             Requested size: 455.25229pt x 256.08066pt.
  [8 <./plots/bayes/over/same_cov.png (PNG copy)> <./plots/bayes/over/avg_cov.pn
 g (PNG copy)>]
@@ -906,54 +906,203 @@ g (PNG copy)>]
 File: plots/bayes/real/same_cov.png Graphic file (type png)
 
 <use plots/bayes/real/same_cov.png>
-Package pdftex.def Info: plots/bayes/real/same_cov.png used on input line 108.
+Package pdftex.def Info: plots/bayes/real/same_cov.png used on input line 117.
 (pdftex.def)             Requested size: 455.2446pt x 256.07358pt.
 
 <plots/bayes/real/avg_cov.png, id=52, 411.136pt x 308.352pt>
 File: plots/bayes/real/avg_cov.png Graphic file (type png)
 
 <use plots/bayes/real/avg_cov.png>
-Package pdftex.def Info: plots/bayes/real/avg_cov.png used on input line 109.
+Package pdftex.def Info: plots/bayes/real/avg_cov.png used on input line 118.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+
+<plots/bayes/real/diff_cov.png, id=53, 411.136pt x 308.352pt>
+File: plots/bayes/real/diff_cov.png Graphic file (type png)
+
+<use plots/bayes/real/diff_cov.png>
+Package pdftex.def Info: plots/bayes/real/diff_cov.png used on input line 119.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+ [9 <./plots/bayes/over/diff_cov.png (PNG copy)> <./plots/bayes/real/same_cov.p
+ng (PNG copy)>]
+<plots/naivebayes/ls/identity_var.png, id=57, 403.106pt x 284.262pt>
+File: plots/naivebayes/ls/identity_var.png Graphic file (type png)
+
+<use plots/naivebayes/ls/identity_var.png>
+Package pdftex.def Info: plots/naivebayes/ls/identity_var.png used on input lin
+e 128.
+(pdftex.def)             Requested size: 455.25229pt x 256.08066pt.
+
+<plots/naivebayes/ls/same_var.png, id=58, 403.106pt x 306.746pt>
+File: plots/naivebayes/ls/same_var.png Graphic file (type png)
+
+<use plots/naivebayes/ls/same_var.png>
+Package pdftex.def Info: plots/naivebayes/ls/same_var.png used on input line 12
+9.
+(pdftex.def)             Requested size: 455.25229pt x 256.0969pt.
+ [10 <./plots/bayes/real/avg_cov.png (PNG copy)> <./plots/bayes/real/diff_cov.p
+ng (PNG copy)>]
+<plots/naivebayes/ls/diff_var.png, id=62, 411.136pt x 308.352pt>
+File: plots/naivebayes/ls/diff_var.png Graphic file (type png)
+
+<use plots/naivebayes/ls/diff_var.png>
+Package pdftex.def Info: plots/naivebayes/ls/diff_var.png used on input line 13
+0.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+ [11 <./plots/naivebayes/ls/identity_var.png (PNG copy)> <./plots/naivebayes/ls
+/same_var.png (PNG copy)>]
+<plots/naivebayes/nls/interlock/identity_var.png, id=66, 411.136pt x 308.352pt>
+File: plots/naivebayes/nls/interlock/identity_var.png Graphic file (type png)
+<use plots/naivebayes/nls/interlock/identity_var.png>
+Package pdftex.def Info: plots/naivebayes/nls/interlock/identity_var.png used o
+n input line 151.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+
+<plots/naivebayes/nls/interlock/same_var.png, id=67, 411.136pt x 308.352pt>
+File: plots/naivebayes/nls/interlock/same_var.png Graphic file (type png)
+
+<use plots/naivebayes/nls/interlock/same_var.png>
+Package pdftex.def Info: plots/naivebayes/nls/interlock/same_var.png used on in
+put line 152.
 (pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
 
 
-LaTeX Warning: File `plots/bayes/real/diff_cov.png' not found on input line 110
-.
+LaTeX Warning: File `plots/naivebayes/nls/interlock/diff_var.png' not found on 
+input line 153.
 
 
-! Package pdftex.def Error: File `plots/bayes/real/diff_cov.png' not found.
+! Package pdftex.def Error: File `plots/naivebayes/nls/interlock/diff_var.png' 
+not found.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.110 ...ght=90mm]{plots/bayes/real/diff_cov.png}}
+l.153 ...s/naivebayes/nls/interlock/diff_var.png}}
                                                   
 Using draft setting for this image.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[9 <./plots/bayes/over/diff_cov.png (PNG copy)> <./plots/bayes/real/same_cov.pn
-g (PNG copy)>] [10 <./plots/bayes/real/avg_cov.png (PNG copy)>] [11]
-(./document.aux) ) 
+[12 <./plots/naivebayes/ls/diff_var.png (PNG copy)> <./plots/naivebayes/nls/int
+erlock/identity_var.png (PNG copy)>]
+<plots/naivebayes/nls/ring/identity_var.png, id=71, 411.136pt x 308.352pt>
+File: plots/naivebayes/nls/ring/identity_var.png Graphic file (type png)
+
+<use plots/naivebayes/nls/ring/identity_var.png>
+Package pdftex.def Info: plots/naivebayes/nls/ring/identity_var.png used on inp
+ut line 157.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+
+<plots/naivebayes/nls/ring/same_var.png, id=72, 411.136pt x 308.352pt>
+File: plots/naivebayes/nls/ring/same_var.png Graphic file (type png)
+
+<use plots/naivebayes/nls/ring/same_var.png>
+Package pdftex.def Info: plots/naivebayes/nls/ring/same_var.png used on input l
+ine 158.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+ [13 <./plots/naivebayes/nls/interlock/same_var.png (PNG copy)>]
+<plots/naivebayes/nls/ring/diff_var.png, id=78, 1096.898pt x 553.267pt>
+File: plots/naivebayes/nls/ring/diff_var.png Graphic file (type png)
+
+<use plots/naivebayes/nls/ring/diff_var.png>
+Package pdftex.def Info: plots/naivebayes/nls/ring/diff_var.png used on input l
+ine 159.
+(pdftex.def)             Requested size: 455.23766pt x 256.07614pt.
+ [14 <./plots/naivebayes/nls/ring/identity_var.png (PNG copy)> <./plots/naiveba
+yes/nls/ring/same_var.png (PNG copy)>]
+<plots/naivebayes/nls/spiral/identity_var.png, id=82, 411.136pt x 308.352pt>
+File: plots/naivebayes/nls/spiral/identity_var.png Graphic file (type png)
+
+<use plots/naivebayes/nls/spiral/identity_var.png>
+Package pdftex.def Info: plots/naivebayes/nls/spiral/identity_var.png used on i
+nput line 162.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+
+<plots/naivebayes/nls/spiral/same_var.png, id=83, 411.136pt x 308.352pt>
+File: plots/naivebayes/nls/spiral/same_var.png Graphic file (type png)
+
+<use plots/naivebayes/nls/spiral/same_var.png>
+Package pdftex.def Info: plots/naivebayes/nls/spiral/same_var.png used on input
+ line 163.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+
+<plots/naivebayes/nls/spiral/diff_var.png, id=84, 411.136pt x 308.352pt>
+File: plots/naivebayes/nls/spiral/diff_var.png Graphic file (type png)
+
+<use plots/naivebayes/nls/spiral/diff_var.png>
+Package pdftex.def Info: plots/naivebayes/nls/spiral/diff_var.png used on input
+ line 164.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+ [15 <./plots/naivebayes/nls/ring/diff_var.png (PNG copy)> <./plots/naivebayes/
+nls/spiral/identity_var.png (PNG copy)>] <plots/naivebayes/over/identity_var.pn
+g, id=88, 411.136pt x 308.352pt>
+File: plots/naivebayes/over/identity_var.png Graphic file (type png)
+
+<use plots/naivebayes/over/identity_var.png>
+Package pdftex.def Info: plots/naivebayes/over/identity_var.png used on input l
+ine 166.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+
+<plots/naivebayes/over/same_var.png, id=89, 1096.898pt x 553.267pt>
+File: plots/naivebayes/over/same_var.png Graphic file (type png)
+
+<use plots/naivebayes/over/same_var.png>
+Package pdftex.def Info: plots/naivebayes/over/same_var.png used on input line 
+167.
+(pdftex.def)             Requested size: 455.23766pt x 256.07614pt.
+ [16 <./plots/naivebayes/nls/spiral/same_var.png (PNG copy)> <./plots/naivebaye
+s/nls/spiral/diff_var.png (PNG copy)>]
+<plots/naivebayes/over/diff_var.png, id=93, 403.106pt x 284.262pt>
+File: plots/naivebayes/over/diff_var.png Graphic file (type png)
+
+<use plots/naivebayes/over/diff_var.png>
+Package pdftex.def Info: plots/naivebayes/over/diff_var.png used on input line 
+168.
+(pdftex.def)             Requested size: 455.25229pt x 256.08066pt.
+ [17 <./plots/naivebayes/over/identity_var.png (PNG copy)> <./plots/naivebayes/
+over/same_var.png (PNG copy)>]
+<plots/naivebayes/real/same_var.png, id=97, 411.136pt x 308.352pt>
+File: plots/naivebayes/real/same_var.png Graphic file (type png)
+
+<use plots/naivebayes/real/same_var.png>
+Package pdftex.def Info: plots/naivebayes/real/same_var.png used on input line 
+170.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+File: plots/naivebayes/real/same_var.png Graphic file (type png)
+
+<use plots/naivebayes/real/same_var.png>
+Package pdftex.def Info: plots/naivebayes/real/same_var.png used on input line 
+171.
+(pdftex.def)             Requested size: 455.2497pt x 256.07794pt.
+
+<plots/naivebayes/real/diff_var.png, id=98, 1096.898pt x 553.267pt>
+File: plots/naivebayes/real/diff_var.png Graphic file (type png)
+
+<use plots/naivebayes/real/diff_var.png>
+Package pdftex.def Info: plots/naivebayes/real/diff_var.png used on input line 
+172.
+(pdftex.def)             Requested size: 455.23766pt x 256.07614pt.
+ [18 <./plots/naivebayes/over/diff_var.png (PNG copy)> <./plots/naivebayes/real
+/same_var.png (PNG copy)>] [19 <./plots/naivebayes/real/diff_var.png (PNG copy)
+>] [20] (./document.aux) ) 
 Here is how much of TeX's memory you used:
- 12378 strings out of 495028
- 224426 string characters out of 6181497
- 278962 words of memory out of 5000000
- 15300 multiletter control sequences out of 15000+600000
+ 12455 strings out of 495028
+ 227534 string characters out of 6181497
+ 279962 words of memory out of 5000000
+ 15368 multiletter control sequences out of 15000+600000
  9972 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 63i,6n,68p,460b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on document.pdf (11 pages, 312583 bytes).
+ 63i,6n,68p,460b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on document.pdf (20 pages, 553320 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 130 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
